@@ -1,4 +1,4 @@
-# react-todo-list whish is built using ### React.js 
+# react-todo-list whish is built using React.js 
 
 # Features & Tools:
 - Add, update, and delete tasks. Mark tasks as complete.
